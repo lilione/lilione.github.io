@@ -8,4 +8,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Click to View My Up-to-date Curriculum Vitae [PDF]](http://lantaoyu.github.io/files/CV_Yunqi_Li.pdf)
+[Click to View My Up-to-date Curriculum Vitae [PDF]](http://lilione.github.io/files/CV_Yunqi_Li.pdf)
