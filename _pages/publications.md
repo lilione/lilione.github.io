@@ -5,6 +5,10 @@ author_profile: true
 ---
 <br>
 
+<b>[SGXonerated: Finding (and Partially Fixing) Privacy Flaws in TEE-based Smart Contract Platforms Without Breaking the TEE.](https://eprint.iacr.org/2023/378)</b> <br>
+Nerla Jean-Louis, <b>Yunqi Li</b>, Yan Ji, Harjasleen Malvai, Thomas Yurek, Sylvain Bellemare, Andrew Miller.<br>
+<i>Proceedings on Privacy Enhancing Technologies (PoPETs) 2024, The Science of Blockchain Conference (SBC) 2023.</i>
+
 <b>[Flash Boys 2.0: Frontrunning in Decentralized Exchanges, Transaction Reordering, and Consensus Instability.](https://arxiv.org/abs/1904.05234)</b> <br>
 Philip Daian, Steven Goldfeder, Tyler Kell, <b>Yunqi Li</b>, Xueyuan Zhao, Iddo Bentov, Lorenz Breidenbach, Ari Juels.<br>
 <i>IEEE Symposium on Security and Privacy 2020.</i>

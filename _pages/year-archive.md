@@ -5,6 +5,13 @@ author_profile: true
 ---
 <br>
 
+
+<b>[TEE Rollups: Fixing Access Patterns in TEE-based Smart Contracts with Off-chain Computing.](https://medium.com/@dsl_uiuc/tee-rollups-fixing-access-patterns-in-tee-based-smart-contracts-with-off-chain-computing-b2f3acfe335f)</b> <br>
+Andrew Miller, Nerla Jean-Louis, Yunqi Li, and James Austgen.<br>
+
+<b>[The Sting Framework (SF).](https://initc3org.medium.com/the-sting-framework-sf-ef00702c88c7)</b> <br>
+Kushal Babel, Nerla Jean-Louis, Mahimna Kelkar, Yunqi Li, Carolina Ortega Perez, Aditya Asgoankar, Sylvain Bellemare, Ari Juels, and Andrew Miller.<br>
+
 <b>[HoneyBadgerSwap: Making MPC as a Sidechain.](https://medium.com/initc3org/honeybadgerswap-making-mpc-as-a-sidechain-364bebdb10a5)</b> <br>
 Yunqi Li, Sylvain Bellemare, Mikerah Quintyne-Collins and Andrew Miller.<br>
 
